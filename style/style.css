@@ -1,0 +1,22 @@
+header, footer {
+    background-color:rgb(12, 116, 177); 
+    Color: rgb(255, 255, 255); 
+    padding: 20px;
+    text-align: center;  
+}
+aside {
+    padding-top: 10px;
+    font-weight: bold;
+    color: orange;
+    text-align: center;
+}
+section {
+    font-weight: bold;
+    text-align: center;
+}
+.title {
+    color: rgb(255, 0, 0);
+}
+#unorderedlist {
+    color: rgb(0, 250, 0);
+}
